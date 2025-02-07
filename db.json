@@ -1,0 +1,10 @@
+{
+    "user":[
+        {"id":1,"name":"yogesh"},
+        {"id":2,"name":"rakesh"}
+    ],
+    "product":[
+        {"id":1,"product":"mobile-phone"},
+        {"id":2,"product":"tv"}
+    ]
+}
